@@ -35,7 +35,7 @@ We're going to make a more complex directory structure for this practical. This 
 your Linux skills for creating and traversing directories. The overall structure will be:
 
 ```
-FOP
+PPP
  |-- Prac00
  |-- Prac01
    |
@@ -58,7 +58,7 @@ FOP
 Each indent is a subdirectory. You might create each directory, then ```cd``` into it, then create the subdirectory:
 
 ```
-cd FOP/Prac01
+cd PPP/Prac01
 mkdir The
 cd The
 mkdir Holy
@@ -70,7 +70,7 @@ cd ../..
 Or you can stay in the original directory and give the path to each new directory:
 
 ```
-cd FOP/Prac01
+cd PPP/Prac01
 mkdir The
 mkdir The/Holy
 mkdir The/Holy/Grail
@@ -476,7 +476,7 @@ shift the stop value by 1.
 ### Activity 8 - Making and submitting a zip file
  
 This Practical includes a directory structure, so we will use a **recursive** option
-on our zip command. To make a zipped file for Practical 01, go to FOP
+on our zip command. To make a zipped file for Practical 01, go to PPP
 directory. Type pwd to check that you are in the right place.
  
 Create the zip file by typing:

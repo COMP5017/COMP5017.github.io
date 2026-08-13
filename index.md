@@ -2,9 +2,9 @@
 site: sandpaper::sandpaper_site
 ---
 
-This site holds the Practical "worksheets" for COMP1005 Fundamentals of Programming
+This site holds the Practical "worksheets" for COMP5017 Programming Principles and Practices
 
-COMP1005 Practical Worksheets are being updated, and will be linked below when available:
+COMP5017 Practical Worksheets are being updated, and will be linked below when available:
 
 - [Practical 00 - Introduction to Linux](prac00.html)
 - [Practical 01 - Introduction to Python](prac01.html)

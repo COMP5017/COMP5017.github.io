@@ -39,7 +39,7 @@ Robert is a Research Fellow, Tristan is an Embedded Software Engineers
 
 #### Dr Paul Hancock, Data Scientist Project Lead, Curtin Institute of Data Science (CIDS) (6/5/24)
 
-Paul holds a PhD in Physics from Sydney University. For his thesis, he studied the youngest radio galaxies, using a southern sky survey conducted at 20GHz. He was one of the key software developers for the survey processing. he now works in CIDS as Data Science Lead for the ADACS project, mainly working on ADACS teaching and software support projects, and teaching computer science courses for EECMS (including COMP5005 - Fundamentals of Programming)
+Paul holds a PhD in Physics from Sydney University. For his thesis, he studied the youngest radio galaxies, using a southern sky survey conducted at 20GHz. He was one of the key software developers for the survey processing. he now works in CIDS as Data Science Lead for the ADACS project, mainly working on ADACS teaching and software support projects, and teaching computer science courses for EECMS (including COMP5017 - Programming Principles and Practices)
 
 #### Professor Paolo Ratieri, School of Molecular and Life Sciences (MLS) (13/5/24)
 

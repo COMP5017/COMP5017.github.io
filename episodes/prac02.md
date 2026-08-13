@@ -29,7 +29,7 @@ The final two tasks will implement two Monte Carlo algorithms: calculating Pi an
 Login to the computers as in Practical 1. Within your home directory (/home/student_id) you should have the following structure:
 
 ```
-FOP
+PPP
  |-- Prac00
  |-- Prac01
  |-- Prac02
@@ -44,7 +44,7 @@ FOP
  |-- Prac11
 ```
 
-Type ```ls FOP``` from your home directory to check your directory structure.
+Type ```ls PPP``` from your home directory to check your directory structure.
 
 We will be working in the ```Prac02``` directory today. If you do not have the directory
 structure correct, your tutor can help you to rearrange it.

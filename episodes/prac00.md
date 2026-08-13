@@ -108,7 +108,7 @@ directory. A *How to use Unix* and cheatsheet document has been uploaded to
 Blackboard, it will be helpful if you get stuck. Note you can use the arrow keys to get 
 back to previous commands, and can use <tab> to complete long filenames.
  
-* FOP
+* PPP
   * Prac00
   * Prac01
   * Prac02
@@ -128,11 +128,11 @@ referenced by two fullstops (..) and all pathways are relative to the current lo
 For example...
  
 ```
-cd FOP/Prac01
+cd PPP/Prac01
 cd ../Prac00
 ```
 
-...takes you into FOP/Prac01, then on the second line, back up and into Prac00
+...takes you into PPP/Prac01, then on the second line, back up and into Prac00
 
 
 ### Activity 3 - Introduction to the Text Editor (vim)
@@ -156,7 +156,7 @@ information for Practical 1.
  
 ```
 ## Synopsis
-Practical 0 of Fundamentals of Programming COMP1005/5005
+Practical 0 of Programming Principles and Practices COMP1005/5017
  
 ## Contents
 README – readme file for Practical 0
@@ -237,7 +237,7 @@ along with a description under “Contents” in the README file.
 To bundle up and compress files we can use zip/unzip. Similar programs are tar
 (Tape Archive) and gzip (GNU zip).
  
-To make a zipped file for Practical 0, go to the Prac00 directory inside your FOP
+To make a zipped file for Practical 0, go to the Prac00 directory inside your PPP
 directory. Type pwd to check that you are in the right place.
  
 Create the zip file by typing:
@@ -288,7 +288,7 @@ page.
 2. **Comprehension:** What is the name of the lab machine you are working on?
 Hint: use the hostname command or look at the prompt.
 3. **Application:** What series of commands would you need to go to the directory
-FOP/assignment in your home directory and compress all the files?
+PPP/assignment in your home directory and compress all the files?
 4. **Analysis:** The code ```print("G'day")``` uses two types of quotation marks (single and double). 
 What would happen if they were all single quotes?
 5. **Synthesis:** The code in ```hello.py``` is a bit repetitious. What commands in vim can help you

@@ -7,7 +7,7 @@ any links that you are not going to use.
 [r-markdown]: https://rmarkdown.rstudio.com/
 [rstudio]: https://www.rstudio.com/
 [carpentries-workbench]: https://carpentries.github.io/sandpaper-docs/
-<script defer data-domain="comp1005.github.io" src="https://plausible.io/js/script.js"></script>
+<script defer data-domain="comp5017.github.io" src="https://plausible.io/js/script.js"></script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

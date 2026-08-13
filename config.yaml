@@ -18,29 +18,29 @@ carpentry: 'cp'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'Fundamentals of Programming' # FIXME
+title: 'Programming Principles and Practices'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME: ( ~ means empty, replace with date formatted as above)
+created: 2026-08-13
 
 # Comma-separated list of keywords for the lesson
-keywords: 'python,programming' # FIXME
+keywords: 'python,programming,COMP5017,Curtin University'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'beta' # FIXME
+life_cycle: 'beta'
 
 # License of the lesson
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/COMP1005/COMP1005.github.io' # FIXME
+source: 'https://github.com/COMP5017/COMP5017.github.io'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'COMP1005@curtin.edu.au' # FIXME
+contact: 'COMP5017@curtin.edu.au'
 
 # Navigation ------------------------------------------------
 #
@@ -94,5 +94,4 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
-
 

@@ -5,7 +5,7 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: COMP1005 Practical Materials
+title: COMP5017 Practical Materials
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -16,5 +16,5 @@ authors:
   - given-names: Valerie
     family-names: Maxville
 abstract: >-
-   Practicals for Fundamentals of Programming at Curtin University
+   Practicals for Programming Principles and Practices at Curtin University
 license: CC-BY-4.0
