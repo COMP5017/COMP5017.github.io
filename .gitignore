@@ -51,3 +51,6 @@ po/*~
 
 # renv detritus
 renv/sandbox/
+
+# Local video archives
+downloaded-videos/
