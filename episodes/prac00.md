@@ -156,7 +156,7 @@ information for Practical 1.
  
 ```
 ## Synopsis
-Practical 0 of Programming Principles and Practices COMP1005/5017
+Practical 0 of Programming Principles and Practices COMP5017
  
 ## Contents
 README – readme file for Practical 0

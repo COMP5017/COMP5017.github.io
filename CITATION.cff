@@ -15,6 +15,11 @@ type: dataset
 authors:
   - given-names: Valerie
     family-names: Maxville
+    affiliation: Curtin University
+    title: Associate Professor
 abstract: >-
    Practicals for Programming Principles and Practices at Curtin University
+notes: >-
+  Original practical materials created by Associate Professor Valerie Maxville,
+  Unit Coordinator of COMP1005 at Curtin University.
 license: CC-BY-4.0

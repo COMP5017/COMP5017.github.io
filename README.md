@@ -3,8 +3,12 @@
 This repository contains the COMP5017 copy of the Programming Principles and Practices
 practical worksheet site for Curtin University.
 
-The lesson content is based on the shared COMP1005/COMP5017 materials and is
-built with The Carpentries Workbench.
+The lesson content is built with The Carpentries Workbench.
+
+## Credit
+
+Original practical materials created by Associate Professor Valerie Maxville,
+Unit Coordinator of COMP1005 at Curtin University.
 
 ## Publishing
 
