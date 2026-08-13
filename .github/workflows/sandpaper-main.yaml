@@ -71,8 +71,8 @@ jobs:
           cp apple-touch-icon.png favicons/cp/apple-touch-icon.png
           cp site.webmanifest favicons/cp/site.webmanifest
           cp safari-pinned-tab.svg favicons/cp/safari-pinned-tab.svg
-          if ! git diff --quiet; then
-            git add favicons/cp/apple-touch-icon.png favicons/cp/site.webmanifest favicons/cp/safari-pinned-tab.svg
+          if [ -n "$(git status --porcelain favicons/cp/apple-touch-icon.png favicons/cp/site.webmanifest favicons/cp/safari-pinned-tab.svg)" ]; then
+            git add -f favicons/cp/apple-touch-icon.png favicons/cp/site.webmanifest favicons/cp/safari-pinned-tab.svg
             git commit -m "Patch generated favicon links"
             git push origin HEAD:gh-pages
           fi
