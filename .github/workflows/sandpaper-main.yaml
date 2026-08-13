@@ -60,3 +60,19 @@ jobs:
           sandpaper::package_cache_trigger(TRUE)
           sandpaper:::ci_deploy(reset = reset)
         shell: Rscript {0}
+
+      - name: "Patch generated static assets"
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git fetch origin gh-pages
+          git worktree add gh-pages-worktree origin/gh-pages
+          cd gh-pages-worktree
+          cp apple-touch-icon.png favicons/cp/apple-touch-icon.png
+          cp site.webmanifest favicons/cp/site.webmanifest
+          cp safari-pinned-tab.svg favicons/cp/safari-pinned-tab.svg
+          if ! git diff --quiet; then
+            git add favicons/cp/apple-touch-icon.png favicons/cp/site.webmanifest favicons/cp/safari-pinned-tab.svg
+            git commit -m "Patch generated favicon links"
+            git push origin HEAD:gh-pages
+          fi

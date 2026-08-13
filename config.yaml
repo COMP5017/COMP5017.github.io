@@ -82,6 +82,7 @@ episodes:
 # Information for Learners
 learners: 
 - setup.md
+- reference.md
 
 # Information for Instructors
 instructors: 
@@ -94,4 +95,3 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
-
