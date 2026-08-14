@@ -54,3 +54,7 @@ renv/sandbox/
 
 # Local video archives
 downloaded-videos/
+*.mp4
+*.mov
+*.m4v
+*.webm
